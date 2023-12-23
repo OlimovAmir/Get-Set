@@ -38,5 +38,6 @@ namespace Get_Set
             set { y = value; }
         }
 
+        public int Z { get; set; }
     }
 }

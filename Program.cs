@@ -12,5 +12,9 @@ class Program
         point.Y = 25;
         int valueY = point.Y;
         Console.WriteLine(valueY);
+
+        point.Z = 35;
+        int valueZ = point.Z;
+        Console.WriteLine(valueZ);
     }
 }
